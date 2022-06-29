@@ -1,5 +1,7 @@
 # Olá, sou professor de programação em liguagens Java, Python, Javascript, PHP e C++
 
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/) [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://docs.djangoproject.com/en/4.0/) [![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/) 
+ 
 ## Atualmente como professor em Pensamento Computacional e Edutech no estado do Paraná.
 
 
