@@ -1,68 +1,31 @@
-# Jackson Severino da Rocha  
-**Analista Desenvolvedor de Sistemas | Backend, APIs e Arquitetura de Software**
+# Jackson Severino da Rocha
 
-Sou analista desenvolvedor de sistemas com experiência em desenvolvimento de aplicações web, APIs e sistemas corporativos. Atuo com foco em backend, arquitetura de software, integração de sistemas e boas práticas de engenharia.
+Backend Engineer focused on APIs and backend systems with Python, FastAPI, Java and Spring Boot.
 
-Tenho histórico como professor de programação, com atuação em formação técnica em desenvolvimento de software, pensamento computacional e banco de dados no programa Edutech (SEED-PR).
+I build and maintain REST APIs, authentication and authorization flows, API Gateway components, service integrations and containerized applications. My current technical focus includes PostgreSQL, Redis, Docker, automated testing and maintainable backend architecture.
 
----
+## Selected work
 
-## Atuação Profissional
+- [jsr-api-gateway](https://github.com/jacksonsr451/jsr-api-gateway) — FastAPI API Gateway with versioned routes, JWT validation through an external auth service, rate limiting, YAML-based proxy routing, regex rewrites and automated tests.
+- [jackson-easy-api](https://github.com/jacksonsr451/jackson-easy-api) — FastAPI and SQLAlchemy project generator published on PyPI.
+- [todolist](https://github.com/jacksonsr451/todolist) — Java and Spring Boot REST API with JWT authentication, Spring Security, JPA, validation and tests.
+- [api-blog](https://github.com/jacksonsr451/api-blog) — FastAPI application organized into domain, application and infrastructure layers, with Redis, JWT middleware, rate limiting and tests.
 
-- Analista Desenvolvedor de Sistemas  
-- Desenvolvimento de APIs REST e sistemas web  
-- Arquitetura de software e backend  
-- Integração de sistemas e bancos de dados  
-- Engenharia de software aplicada a soluções educacionais e corporativas  
+## Core stack
 
----
+- Python, FastAPI, SQLAlchemy
+- Java, Spring Boot, Spring Security
+- REST APIs, API Gateway, Microservices
+- PostgreSQL, Redis, SQL
+- Docker, Traefik, GitHub Actions
+- Automated testing and API design
 
-## Stack Principal
+## Background
 
-### Backend
-- Python (Flask, Django, Django REST Framework)
-- Java (Spring, Spring Boot)
-- PHP (Laravel, Symfony)
-- Node.js
+My professional background also includes teaching programming, software development, computational thinking and databases. That experience strengthened my technical communication, documentation and mentoring skills.
 
-### Frontend
-- JavaScript
-- React
-- Next.js
-- HTML5, CSS3
+## Links
 
-### Banco de Dados
-- PostgreSQL  
-- MySQL  
-
-### Arquitetura e Infraestrutura
-- APIs REST
-- MVC
-- Microserviços
-- Docker
-- GitHub Actions
-
----
-
-## Experiência em Educação (Histórico Profissional)
-
-Atuação como professor de programação em linguagens:
-
-- Java  
-- Python  
-- JavaScript  
-- PHP  
-- C++  
-
-Disciplinas:
-- Desenvolvimento de Sistemas  
-- Pensamento Computacional  
-- Banco de Dados  
-- Edutech — SEED PR  
-
----
-
-## Contato Profissional
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-severino-da-rocha/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackson.severino.rocha@escola.pr.gov.br)
+- [LinkedIn](https://www.linkedin.com/in/jackson-severino-da-rocha/)
+- [PyPI](https://pypi.org/user/jacksonsr451/)
+- [Portfolio](https://jacksoncodecraft.com.br)
