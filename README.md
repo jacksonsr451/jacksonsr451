@@ -24,11 +24,6 @@ Open-source contributor to PyRIT.
 **Infrastructure:** Docker • GitHub Actions  
 **Engineering:** REST APIs • API Design • Authentication & Authorization • Automated Testing • Software Architecture
 
-## Other Work
-
-- [jsr-api-gateway](https://github.com/jacksonsr451/jsr-api-gateway) — FastAPI API Gateway with JWT validation, rate limiting and configurable proxy routing.
-- [jackson-easy-api](https://github.com/jacksonsr451/jackson-easy-api) — FastAPI and SQLAlchemy project generator published on PyPI.
-- [jsr-testrunner](https://github.com/jacksonsr451/test-runner) — open-source Python test runner distributed through PyPI.
 
 ## Background
 
