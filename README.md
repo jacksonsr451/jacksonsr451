@@ -10,19 +10,11 @@ My primary stack is **Python and FastAPI**, with experience in REST APIs, authen
 
 ### [Otterdog — Eclipse CSI](https://github.com/eclipse-csi/otterdog)
 
-I am actively contributing to Otterdog, an open-source project in the Eclipse ecosystem for managing GitHub organizations and repositories as configuration.
-
-Current contributions include:
-
-- [PR #779 — Support individual users as ruleset bypass actors](https://github.com/eclipse-csi/otterdog/pull/779) — adds GitHub User actor resolution and round-trip mapping for organization and repository rulesets, with loader-level and provider tests.
-- [PR #767 — Validate code scanning languages for new repositories](https://github.com/eclipse-csi/otterdog/pull/767) — improves validation around code-scanning language configuration and repository provider state.
-- [PR #765 — Raise out-of-sync notification level](https://github.com/eclipse-csi/otterdog/pull/765) — improves visibility of configuration drift in GitHub synchronization workflows.
+Open-source contributor to Otterdog.
 
 ### [PyRIT — Microsoft](https://github.com/microsoft/PyRIT)
 
-I am currently participating in the PyRIT open-source project and working on contributions around its dataset and GUI workflows.
-
-PyRIT (Python Risk Identification Tool for generative AI) is Microsoft's open-source framework for identifying and evaluating risks in generative AI systems.
+Open-source contributor to PyRIT.
 
 ## Backend Stack
 
