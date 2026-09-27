@@ -16,13 +16,21 @@ Open-source contributor to Otterdog.
 
 Open-source contributor to PyRIT.
 
+## Featured Project
+
+### [EventFlow](https://github.com/jacksonsr451/EventFlow)
+
+Event-driven distributed systems project designed around a polyglot backend architecture, bringing together the technologies represented in my current backend profile: **Python/FastAPI, Java/Spring Boot and Go**, with **PostgreSQL, Kafka/Redpanda, OpenTelemetry, Prometheus and Grafana**.
+
+The project explores service boundaries, asynchronous communication, eventual consistency, idempotency, Transactional Outbox, Saga compensation, reconciliation and distributed observability. It is currently in the architecture and contract-preparation phase, with OpenAPI, AsyncAPI and JSON Schema contracts forming the initial baseline.
+
 ## Backend Stack
 
-**Primary:** Python • FastAPI • SQLAlchemy  
-**Secondary:** Java • Spring Boot • Spring Security  
-**Data:** PostgreSQL • Redis • SQL  
-**Infrastructure:** Docker • GitHub Actions  
-**Engineering:** REST APIs • API Design • Authentication & Authorization • Automated Testing • Software Architecture
+**Languages:** Python • Java • Go  
+**Frameworks:** FastAPI • Spring Boot • SQLAlchemy  
+**Data & Messaging:** PostgreSQL • Redis • Kafka / Redpanda • SQL  
+**Infrastructure & Observability:** Docker • GitHub Actions • OpenTelemetry • Prometheus • Grafana  
+**Engineering:** REST APIs • API Design • Event-Driven Architecture • Distributed Systems • Authentication & Authorization • Automated Testing • Software Architecture
 
 
 ## Background
